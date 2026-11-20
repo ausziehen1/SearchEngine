@@ -42,6 +42,8 @@
 [Bb]uild/
 [Bb]uild-*/
 cmake-build-*/
+.idea/
+answers.json
 
 # CMake generated files
 CMakeFiles/
